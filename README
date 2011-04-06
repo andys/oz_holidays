@@ -2,6 +2,7 @@
 oz_holidays - Ruby
 ------------------
 
+gem install oz_holidays
 
 require 'oz_holidays'
 
@@ -18,12 +19,10 @@ require 'oz_holidays'
 
 
 
-Javascript
-----------
+Javascript / JSON
+-----------------
 
-See javascript/ directory
-
-
+See javascript/ directory or run OzHolidays.to_json
 
 
 

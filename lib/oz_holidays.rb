@@ -1,4 +1,6 @@
 
+require 'json' rescue nil
+
 class OzHolidays
   def self.national
     by_state['National']
@@ -8,6 +10,10 @@ class OzHolidays
   end
   def self.[](state)
     for_state(state)
+  end
+
+  def self.to_json
+    by_state.to_json
   end
 
   def self.by_state
