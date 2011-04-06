@@ -1,0 +1,102 @@
+*QLD
+
+New Year's Day	Mon 3 Jan 	Mon 2 Jan
+Australia Day	Wed 26 Jan 	Thur 26 Jan
+Good Friday	Fri 22 Apr 	Fri 6 Apr
+Easter Monday	Tues 26 Apr 	Mon 9 Apr
+ANZAC Day	Mon 25 Apr 	Wed 25 Apr
+Labour Day	Mon 2 May 	Mon 7 May
+Queen's Birthday	Mond 13 June 	Mon 11 June
+Royal Q'land Show (metro)	Wed 17 Aug 	Wed 15 Aug
+Christmas Day	Mon 26 Dec 	Tues 25 Dec
+Boxing Day	Tues 27 Dec 	Wed 26 Dec
+
+*SA
+
+New Year's Day 	Mon 3 Jan 	Mon 2 Jan
+Australia Day 	Wed 26 Jan 	Thur 26 Jan
+Adelaide Cup 	Mon 14 Mar 	Mon Mar 12
+Good Friday 	Fri 22 Apr 	Fri 6 Apr
+Easter Monday 	Mon 25 Apr 	Mon 9 Apr
+ANZAC Day 	Tues 26 Apr  	Wed 25 Apr
+Queen's Birthday 	Mon 13 Jun 	Mon 11 June
+Labour Day 	Mon 3 Oct 	Mon 1 Oct
+Christmas Day 	Mon 26 Dec 	Tues 25 Dec
+Boxing Day 	Tue 27 Dec 	Wed 26 Dec
+
+*NSW
+
+New Year's Day	Mon 3 Jan	Mon 2 Jan
+Australia Day	Wed 26 Jan	Thur 26 Jan
+Good Friday	Fri 22 Apr	Fri 6 Apr
+Easter Monday	Tues 26 Apr	Mon 9 Apr
+ANZAC Day	Mon 25 Apr 	Wed 25 Apr
+Queen's Birthday	Mon 13 June	Mon 11 June
+Labour Day	Mon 3 Oct	Mon 1 Oct
+Christmas Day	Mon 26 Dec	Tues 25 Dec
+Boxing Day	Tue 27 Dec	Wed 26 Dec
+ 
+*WA
+
+New Year's Day 	Mon 3 Jan 	Mon 2 Jan
+Australia Day 	Wed 26 Jan 	Tues 26 Jan
+Labour Day 	Mon 7 Mar 	Mon 5 Mar
+Good Friday 	Fri 22 April 	Fri 6 Apr
+Easter Monday 	Mon 25 Apr 	Mon 9 Apr
+ANZAC Day 	Tues 26 Apr 	Wed 25 Apr
+Foundation Day 	Mon 6 Jun 	Mon 4 June
+Queen's Birthday 	Mon 3 Oct 	Mon 1 Oct
+Christmas Day 	Mon 26 Dec 	Tues 25 Dec
+Boxing Day 	Tue 27 Dec 	Wed 26 Dec
+
+*VIC
+
+New Year's Day 	Mon 3 Jan 	Mon 2 Jan
+Australia Day 	Wed 26 Jan 	Thur 26 Jan
+Labour Day 	Mon 14 Mar 	Mon 12 Mar
+Good Friday 	Fri 22 Apr 	Fri 6 Apr
+Easter Monday 	Mon 25 Apr 	Mon 9 Apr
+ANZAC Day 	Tues 26 Apr 	Wed 25 Apr
+Queen's Birthday 	Mon 13 Jun 	Mon 11 June
+Melbourne Cup Day 	Tues 1 Nov 	Tues 6 Nov
+Christmas Day 	Mon 26 Dec 	Tues 25 Dec
+Boxing Day 	Tues 27 Dec 	Wed 26 Dec
+
+*TAS
+
+New Year's Day 	Mon 3 Jan 	Mon 2 Jan
+Australia Day 	Wed 26 Jan 	Thur 26 Jan
+Royal Hobart Regatta 	Mon 14 Feb 	Mon 13 Feb
+Eight Hours Day 	Mon 14 Mar 	Mon 12 Mar
+Good Friday 	Fri 22 Apr 	Fri 6 Apr
+Easter Monday 	Mon 25 Apr 	Mon 9 Apr
+ANZAC Day 	Mon 25 Apr 	Wed 25 Apr
+Queen's Birthday 	Mon 13 June 	Mon 11 June
+Christmas Day 	Mon 26 Dec 	Tues 25 Dec
+Boxing Day 	Tues 27 Dec 	Wed 26 Dec
+
+*NT
+
+New Year's Day	Mon 3 Jan 	Mon 2 Jan
+Australia Day	Wed 26 Jan 	Thur 26 Jan
+Good Friday	Fri 22 Apr 	Fri 6 Apr
+Easter Monday	Mon 25 Apr 	Mon 9 Apr
+ANZAC Day	Mon 25 Apr 	Wed 25 Apr
+May Day	Mon 2 May 	Mon 7 May
+Queen's Birthday	Mon 13 Jun 	Mon 11 June
+Picnic Day	Mon 1 Aug 	Mon 6 Aug
+Christmas Day	Mon 26 Dec 	Tues 25 Dec
+Boxing Day	Tue 27 Dec 	Wed 26 Dec
+
+*ACT
+
+New Year's Day 	Mon 3 Jan 	Mon 2 Jan
+Australia Day 	Wed 26 Jan 	Thur 26 Jan
+Canberra Day 	Mon 14 Mar 	Mon 12 Mar
+Good Friday 	Fri 22 Apr 	Fri 6 Apr
+Easter Monday 	Mon 25 Apr 	Mon 9 Apr
+ANZAC Day 	Tues 26 Apr 	Wed 25 Apr
+Queen's Birthday 	Mon 13 Jun 	Mon 11 June
+Labour Day 	Mon 3 Oct 	Mon 1 Oct
+Christmas Day 	Mon 26 Dec 	Tues 25 Dec
+Boxing Day 	Tues 27 Dec 	Wed 26 Dec

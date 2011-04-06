@@ -1,0 +1,11 @@
+CHANGELOG
+README
+Rakefile
+gen/output.rb
+gen/parse.rb
+gen/scrape.txt
+gen/to_json.rb
+javascript/oz_holidays.js
+lib/oz_holidays.rb
+test/test_all.rb
+Manifest
