@@ -12,6 +12,11 @@ class TestOzHolidays < Test::Unit::TestCase
     assert_not_nil OzHolidays['NSW']["#{Date.today.year}-04-25"]
   end
   
+  def test_to_json
+    assert_not_nil OzHolidays.to_json
+  end
+  
+  
 private
   def find_nyd_hol
     nyd = Date.parse("#{Date.today.year}-01-01")
